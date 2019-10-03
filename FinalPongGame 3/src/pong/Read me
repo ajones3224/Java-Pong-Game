@@ -1,0 +1,15 @@
+Here is my pong game it took me about a month to put it together. I had first had trouble moving the paddles that I created. I used the java fx tutorials, 
+but I also looked at other pong games online to see how they coded paddles. At first I was using a applet but after talks with you during conference  I switched 
+back to using javafx. I looked on websites like stack overflow to help with movement of the paddles. I also looked at mutiple youtube videos to help with paddles.
+After I got the paddles to move. I needed to have the ball bounce around. So i used my knowledge of javafx and the help of online tutorials. Most of them used switch cases,
+so I had to research wihat they do.  So with the help of tutorials and learning about switch cases, I was able to create a ball that bounces. I looked at other Pong games to see
+what other files would be necessary. I saw a needed a draw object and pointer  files so I added those with the help of online tutorials on youtube and study the javafx games tutorials.
+Overalll all my pong game was difficult to built it took me long hours and man nights of no sleep to code. But I'm glad its done and I have finished it. With all that being said I wish I would have asked 
+you for more help because following the stuff online was difficult to understand and to apply. While coding it was difficult  and hard to understand why certain things were needed for it too work.
+
+Some of the Tutorials used:
+https://www.youtube.com/watch?v=g7p67rvYN5U
+https://www.youtube.com/watch?v=g7p67rvYN5U
+https://stackoverflow.com/questions/29158148/getting-keyboard-controls-to-work-in-my-game-of-pong
+http://wecode4fun.blogspot.com/2015/05/simple-game-engine-pong.html
+https://stackoverflow.com/questions/40343733/java-process-physical-memory-increases-continuously
